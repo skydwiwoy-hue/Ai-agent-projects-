@@ -1,0 +1,69 @@
+{
+  "clips": [
+    {
+      "clip_id": 1,
+      "moment_type": "🔥 CLUTCH MOMENT",
+      "timestamp": {
+        "start_seconds": 12,
+        "end_seconds": 42,
+        "display": "00:12 - 00:42 (30 detik)"
+      },
+      "headline_hook": "1 HP AND A DREAM 😱🔥",
+      "hook_visual": "👀 Fast-cut zoom in to low health bar right before spraying down the entire enemy team.",
+      "hook_verbal": "No way I survive this... bro watch this clutch!",
+      "caption": "How did I even win this round?! Rate this play 1 to 10 in the comments 💀👇\n\n#clutch #outplay #gaming #viral #fyp #usa"
+    },
+    {
+      "clip_id": 2,
+      "moment_type": "😂 FUNNY FAIL",
+      "timestamp": {
+        "start_seconds": 50,
+        "end_seconds": 80,
+        "display": "00:50 - 01:20 (30 detik)"
+      },
+      "headline_hook": "BRO HAD ONE JOB 💀",
+      "hook_visual": "🎬 Freeze frame reaction on teammate throwing a bad grenade with slow-mo effect.",
+      "hook_verbal": "Ain't no way he just did that... look at this guy!",
+      "caption": "Tag that one friend who always throws the game like this 😭👇\n\n#funny #fails #gamingmemes #memes #fyp"
+    },
+    {
+      "clip_id": 3,
+      "moment_type": "🧠 HIGH IQ PLAY",
+      "timestamp": {
+        "start_seconds": 95,
+        "end_seconds": 125,
+        "display": "01:35 - 02:05 (30 detik)"
+      },
+      "headline_hook": "PROS ARE HIDING THIS ANGLE 🤫",
+      "hook_visual": "⚠️ Bright red arrow pointing to a secret wall-bang spot or sneaky corner.",
+      "hook_verbal": "Stop playing predictable! Try this lineup right now.",
+      "caption": "Save this video before you queue your next ranked match 🧠🔥 What's your rank right now?\n\n#protips #highiq #gaminghacks #guide #fyp"
+    },
+    {
+      "clip_id": 4,
+      "moment_type": "⚡ INSANE OUTPLAY",
+      "timestamp": {
+        "start_seconds": 140,
+        "end_seconds": 170,
+        "display": "02:20 - 02:50 (30 detik)"
+      },
+      "headline_hook": "THEY CELEBRATED TOO EARLY 🤫",
+      "hook_visual": "⏱️ Fast forward showing enemy taunting followed by an immediate 1v3 flick-shot wipeout.",
+      "hook_verbal": "They really thought they won this round... watch this!",
+      "caption": "They talked trash so I had to lock in 🤫🔥 Drop a like if you love comeback moments!\n\n#godmode #clutchgod #insaneplay #fyp"
+    },
+    {
+      "clip_id": 5,
+      "moment_type": "😭 UNLUCKY MOMENT",
+      "timestamp": {
+        "start_seconds": 185,
+        "end_seconds": 215,
+        "display": "03:05 - 03:35 (30 detik)"
+      },
+      "headline_hook": "WORST LUCK IN HISTORY 💀",
+      "hook_visual": "🎯 Close-up on the crosshair perfectly lined up right before a sudden lag spike.",
+      "hook_verbal": "You won't believe how bad my luck was right here...",
+      "caption": "I literally uninstalled after this 😭 Who can relate?\n\n#gamingmemes #unlucky #fail #clips #fyp"
+    }
+  ]
+}
